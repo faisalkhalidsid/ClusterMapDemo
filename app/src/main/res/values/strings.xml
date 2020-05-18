@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiscoverMap</string>
+    <string name="baseApiUrl">https://myscrap.com/api/</string>
+
+
+</resources>
